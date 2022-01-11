@@ -1,0 +1,1 @@
+console.log("Good job you found this. wow. Ok well i said a surprise is waiting here, so here you go. If you play roblox. Here is my account username and password .      ..   ..   ..   ..   ..   ..   ..   Username: Ice_Dxst password:   GET_JUCKED.COMHAHA");
